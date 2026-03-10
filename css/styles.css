@@ -21,16 +21,16 @@ body {
     box-sizing: border-box;
 }
 
-.carta {
+.palo {
     font-size: 60px;
     line-height: 1;
 }
 
-.top-carta {
+.top {
     align-self: flex-start;
 }
 
-.bottom-carta {
+.bottom {
     align-self: flex-end;
     transform: rotate(180deg);
 }
